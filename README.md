@@ -11,7 +11,7 @@ fetch 12 parameters for each gesture, which is pre-calculated from the sensor an
 stored in a .csv file. The system stores the five hand gestures, each with a size
 of 500, in separate files, labelled with their respective gestures as the filename.
 The recorded training datasets are used to train a convolutional neural network
-(CNN), achieving a 92.2% accuracy rate for five different non-static hand gestures:
+(CNN), achieving a 95.2% accuracy rate for five different non-static hand gestures:
 right swipe, left swipe, up swipe, down swipe, and forward palm. The system can
 use these five gestures to control various applications like music, video players, and
 web browsers. Data visualization for the five training datasets is also conducted
